@@ -1,0 +1,7 @@
+Problem with Traditional Systems
+By traditional systems, I mean systems like Relational Databases and Data Warehouses. Organizations have been using them for the last 40 years to store and analyze their data. But the data being generated today can’t be handled by these databases for the following reasons:
+
+Most of the data generated today are semi-structured or unstructured. But traditional systems have been designed to handle only structured data that has well-designed rows and columns
+Relations Databases are vertically scalable which means you need to add more processing, memory, storage to the same system. This can turn out to be very expensive
+Data stored today are in different silos. Bringing them together and analyzing them for patterns can be a very difficult task.
+So, how do we handle Big Data? This is where Hadoop comes in!
